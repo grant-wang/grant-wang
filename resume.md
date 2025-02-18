@@ -25,8 +25,10 @@ Empowering Brands with User-Focused Design
     - 5 - Computer Science A
     - 5 - Physics C: Mechanics
     - & 7 more
-**2024 - Present**  
+**2024 - 2028**  
 **Northeastern University**, Boston, MA  
+- **Major**: Computer Science with concentration in Foundations
+- **GPA**: 4.00
 
 
 ---
