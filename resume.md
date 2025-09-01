@@ -1,121 +1,60 @@
 # Grant Wang
-**User-Experience Developer**  
-Empowering Brands with User-Focused Design  
+
+📞 +1 (475) 455-0348  
+📧 wang.gran@northeastern.edu  
+[LinkedIn](https://www.linkedin.com/in/grant-wang-538608326) | [GitHub (main)](https://github.com/gwdio) | [GitHub (alt)](https://github.com/grant-wang)
 
 ---
 
-## Contact Information
-- **Phone**: +1 (475) 455-0348  
-- **Email**: [gwdiogenes@gmail.com](mailto:gwdiogenes@gmail.com)  
-- **GitHub**: [github.com/gwdio](https://github.com/gwdio)
-- **GitHub**: [github.com/grant-wang](https://github.com/grant-wang)
+## 🎓 Education
+
+**Northeastern University, Boston, MA** (2024 – 2028)  
+*B.S. Computer Science, Concentration in Foundations* — GPA: 4.00  
+Relevant Courses: Object Oriented Design, Foundations of Data Science, Logic and Computation, Theory of Computation, Fundamentals of Computer Science 1 & 2, Discrete Structures, Intensive Math Reasoning, Linear Algebra, Differential Equations and Linear Algebra  
+
+**Darien High School, Darien, CT** (2019 – 2024)  
+GPA: 4.17 | SAT: 1570 | ACT: 35  
 
 ---
 
-## Education
+## 💻 Technical Skills
 
-**2019 - 2024**  
-**Darien High School**, Darien, CT
-- **Stats**:
-  - **GPA**: 4.17
-  - **SAT**: 1570
-  - **ACT**: 35
-  - **AP Tests**:
-    - 5 - BC Calculus
-    - 5 - Computer Science A
-    - 5 - Physics C: Mechanics
-    - & 7 more
-**2024 - 2028**  
-
-**Northeastern University**, Boston, MA  
-- **Major**: Computer Science with concentration in Foundations
-- **GPA**: 4.00
-
+- **Languages:** Python, Java, Typescript, Racket, C/C++, Dart  
+- **Technologies:** MUI, Abstract Syntax Trees, Flutter, Flask, WIX/Squarespace, LaTeX  
 
 ---
 
-## Expertise
-- UI/UX Design
-- Search Engine Optimization
-- Full-stack Web Development
-- LLM Prompt Design
-- 3D Modeling
-- Algorithmic Programming
+## 💼 Professional Experience
+
+**Anytime AI** — Software Engineer Intern (2025)  
+- Refactored UI for dark theme compatibility and code simplification.  
+- Created a test framework for legal research functionality.  
+
+**Anytime AI** — Competitive Analyst & Database Engineer (2024)  
+- Analyzed threats and compared features across competitors.  
+- Facilitated migration to Zoho CRM framework.  
+- Assembled data on potential customers and renewed old profiles.  
+
+**GuardBot Inc.** — Software Development Intern (2024)  
+- Built multi-platform command-and-control app with Flutter.  
+- Championed robotics design innovations.  
+
+**Chinese American Heritage Association** — Webmaster & Outreach Analyst (2022 – 2024)  
+- Designed, developed, and optimized CAHAI website.  
+- Overhauled design for accessibility and performance.  
+- Improved traffic and navigation via Google SEO.  
 
 ---
 
-## Tools & Technologies
-- Java, C/C++, Python, Dart
-- HTML, JavaScript, CSS
-- WIX/Squarespace
-- Flask
-- Onshape
-- LaTeX
-- Flutter
-- Raspberry Pi
+## 📂 Projects
+
+- **Northeastern Card Playing Robotics:** Designed risk algorithm and implemented scoring system.  
+- **Python Code Obfuscator:** AST + policy-based design with Collatz-based obfuscation flows.  
+- **D&D Combat and Context Manager:** All-in-one player/enemy manager with resource and action tracking.  
 
 ---
 
-## Professional Experience
+## 🎯 Hobbies
 
-### 2024  
-**Anytime AI**, Competitive Analyst and Database Engineer  
-- Performed threat analysis and feature comparison across competitors
-- Facilitated migration to new CRM framework
-- Gathered data on potential customers
-- Cleaned and rebuilt old profiles
-
-### 2024  
-**GuardBot Inc.**, Software Development Intern  
-- Created multi-platform app for Command and Control using Flutter Framework, enhancing usability.
-- Championed robotics design innovations.
-- Developed design and product roadmap.
-
-### 2022 - 2024  
-**Chinese-American Heritage Association (CAHAI)**, Web Developer & Outreach Analyst  
-- Designed, developed, and optimized the CAHAI website.
-- Overhauled old design with a new sleek, modern UI.
-- Restructured website for maximal usability.
-- Optimized web traffic using Google SEO, halving website navigation times.
-- Enhanced accessibility threefold and facilitated scalability.
-- Optimized business practices.
-
-### 2023 - 2024  
-**North American Maple Culture Center (MapleUS)**, Webmaster  
-- Maintained and enhanced NAMCC website functionality.
-
----
-
-## Projects & Activities
-
-### **Card Playing Robot**
-- Designed algorithm for poker robot.
-- Implemented scoring systems.
-
-### **DECA Independent Business Plan**
-- Developed a business plan for a revolutionary social media company, connecting people via real-world interactions.
-- Engineered development roadmap and projected growth.
-- Promoted company and vision in front of a panel of industry experts.
-
-### **DECA Business Solutions Project**
-- Provided consulting services to the Chinese-American Heritage Association.
-- Suggested changes to current event administration, boosting outreach ability and enhancing marketing plan.
-
-### **President, Aerospace Club**
-- Made STEM accessible and fun, achieving record signups at the club fair.
-- Diversified and tripled membership.
-- Led advanced engineering projects such as making a hovercraft, rocket launcher, catapults, and a railgun.
-
-### **Efficient AI Learning Utility**
-- Improved research efficiency with an end-to-end service to summarize articles in one click and answer questions based on page content.
-
----
-
-## Awards & Honors
-- **National Merit Finalist**
-- **Computer Technology Achievement Award**
-- **DECA Business Solutions Project**, SCDC First Place
-- **DECA Independent Business Plan**, SCDC First Place
-- **AP Scholar with Distinction**
-- **USA Computing Olympiad**, Bronze
-- **M3 Mathworks Math Modeling Competition**, Semifinalist
+Skiing 🎿 | Paddle Sports 🏓 | Pool 🎱 | Gaming 🎮 | Philosophy 📚 | D&D 🎲  
+"""
